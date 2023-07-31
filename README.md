@@ -1,6 +1,13 @@
 # Perspective Projection
 
-This code snippet demonstrates perspective projection in the context of computer graphics. It uses JavaScript and the canvas element to draw a 3D wireframe cube on a 2D canvas with a perspective effect.
+<!-- ![screenshot](./screenshot.png) -->
+<img src="./screenshot.png" alt="screenshot" width="600"/>
+<img src="./screenshot2.png" alt="screenshot" width="600"/>
+
+
+
+
+This code snippet demonstrates perspective projection in the context of computer graphics. It uses JavaScript and the canvas element to draw a 3D wireframe cube on a 2D canvas with a perspective effect. This was made after watching a introduction to computer graphics lecture as an take away 'assignment'
 
 ## How it Works
 
