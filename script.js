@@ -52,16 +52,5 @@ for(var i = 0; i < EDGE_TABLE.length; i++) {
     ctx.moveTo(u1*100, v1*100);
     ctx.lineTo(u2*100, v2*100);
 
-
-
-
-    // var edge = EDGE_TABLE[i];
-
-    // var p1 = points[edge[0]];
-    // var p2 = points[edge[1]];
-
-    // ctx.moveTo(p1.x*100, p1.y*100);
-    // ctx.lineTo(p2.x*100, p2.y*100);
-
 }
 ctx.stroke();
